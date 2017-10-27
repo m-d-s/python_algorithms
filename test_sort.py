@@ -17,3 +17,6 @@ sort_test(top_down_merge_sort)
 
 print "Test Bottom Up Merge Sort:"
 sort_test(btm_up_merge_sort)
+
+print "Test Heap Sort:"
+sort_test(heap_sort)
